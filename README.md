@@ -7,3 +7,7 @@ Python Code übernommen werden.
 2. Jetzt wird die Abweichung in z bestimmt. MIt Hilfe von Strassen oder Geleisen die als Referenz gelten.
 
 3. Im letzten Schritt wird die Differenz der beiden DEMs berechnet.
+
+4. Neu dazu kommt eine Berehnung für die kleine Schnittflächen und ein erster Ansatz einen Dichteschlüssel zu berechnen.
+
+5. RGBVI, um ein Modell zwischen RPM und gemessener Höhe aus DEM Grashöhe zu erstellen.
